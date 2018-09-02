@@ -1,6 +1,6 @@
-<h1 style="align: center">
-  OBSOLETE.<br/>
-  REPLACED BY<br/>
+<h1 style="text-align: center">
+  OBSOLETE<br/>
+  REPLACED BY<br/><br/>
   https://handbook.datopian.com/
   <br/>
   <br/>
