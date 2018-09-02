@@ -1,3 +1,13 @@
+<h1 style="align: center">
+  OBSOLETE.<br/>
+  REPLACED BY<br/>
+  https://handbook.datopian.com/
+  <br/>
+  <br/>
+  https://gitlab.com/datopian/handbook
+</h1>
+
+
 Documentation of techniques and processes for **selecting** and **managing** projects especially using agile, iterative methods.
 
 **NOTE: this is still a work in progress**
